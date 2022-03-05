@@ -1,0 +1,9 @@
+name: Bank
+version: '${project.version}'
+main: me.acablade.region.RegionPlugin
+api-version: 1.16
+authors: [ Acablade ]
+description: banka
+website: github.com/Acablade/Banka
+commands:
+  alan:
